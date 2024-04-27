@@ -40,7 +40,7 @@ $json = json_encode($values,JSON_UNESCAPED_UNICODE);
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0 "></script>
-    <link rel="icon" href="./img/parette.png">
+    <link rel="icon" href="./img/pencil.png">
     <title>算数の集計結果</title>
 </head>
 
