@@ -12,6 +12,7 @@ $pdo = db_conn();
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="./img/pencil.png">
 <style>div{padding: 10px;font-size:16px;}</style>
 <title>メニュー</title>
 </head>
