@@ -43,7 +43,7 @@ $json = json_encode($values,JSON_UNESCAPED_UNICODE);
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet">
-  <link rel="icon" href="./img/parette.png">
+  <link rel="icon" href="./img/pencil.png">
   <title>データ詳細</title>
 </head>
 
