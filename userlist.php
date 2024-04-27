@@ -35,7 +35,7 @@ $json = json_encode($values,JSON_UNESCAPED_UNICODE);
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/style.css">
     <style>div{padding: 10px;font-size:16px;}</style>
-    <link rel="icon" href="./img/parette.png">
+    <link rel="icon" href="./img/pencil.png">
     <title>登録者一覧</title>
 </head>
 
