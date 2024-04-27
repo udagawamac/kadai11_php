@@ -1,0 +1,49 @@
+html,body{
+  height: 100%;
+}
+.haikei {
+  background-size: cover;
+  background-repeat: repeat;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  padding-top: 15px;
+  background-color: beige;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar{
+  padding: 20px 20px;
+  background-color: beige;
+}
+nav{
+  background-color: black;
+  color: white;
+  padding: 10px 10px 10px 20px;
+  margin-bottom:20px;
+}
+.menu{
+  padding-left: 20px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+.jumbotron{
+  padding:30px 15px;
+  margin-bottom:30px;
+  color:inherit;
+  background-color:#eeeeee
+}
+.jumbotron h1,.jumbotron .h1{color:inherit}
+.jumbotron p{margin-bottom:15px;font-size:21px;font-weight:200}
+.jumbotron>hr{border-top-color:#d5d5d5}
+.container .jumbotron,.container-fluid .jumbotron{border-radius:6px}
+.jumbotron .container{max-width:100%}
+  @media screen and (min-width:768px){
+  .jumbotron{padding:48px 0}
+  .container .jumbotron,.container-fluid .jumbotron{padding-left:60px;padding-right:60px}
+  .jumbotron h1,.jumbotron .h1{font-size:63px}
+}
