@@ -38,6 +38,7 @@ $json = json_encode($values,JSON_UNESCAPED_UNICODE);
   <meta charset="UTF-8">
   <title>ユーザー管理</title>
   <link href="css/style.css" rel="stylesheet">
+  <link rel="icon" href="./img/pencil.png">
   <style>div{padding: 10px;font-size:16px;}</style>
 </head>
 
