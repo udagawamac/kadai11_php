@@ -8,7 +8,7 @@ session_start();
 //※htdocsと同じ階層に「includes」を作成してfuncs.phpを入れましょう！
 //include "../../includes/funcs.php";
 include "funcs.php";
-// sschk();
+sschk();
 
 //1. POSTデータ取得
 $name      = filter_input( INPUT_POST, "name" );
